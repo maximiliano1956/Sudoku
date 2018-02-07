@@ -1,3 +1,5 @@
+# Sudoku
+
 Solve sudoku or super-sudoku (diagonal sudoku) puzzle
 
 You can compile under Windows or Linux.
